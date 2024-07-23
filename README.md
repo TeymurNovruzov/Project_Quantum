@@ -12,7 +12,7 @@ Why QuantumCTF?
 QuantumCTF is more than just a series of challenges; it's an adventure into the depths of cybersecurity, providing an excellent platform for learning, collaboration, and showcasing your skills.
 About the Creators
 
-Special thanks to Maleyka and Mahammad for exceptional contributions.
+Special thanks to Maleyka for her exceptional contributions.
 
 Join the adventure, explore the challenges, and contribute to the ever-evolving world of QuantumCTF
 
